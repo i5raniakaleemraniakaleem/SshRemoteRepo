@@ -4,4 +4,7 @@ This is a edit perform for GIT PULL demo
 Multiple commit testing
 <<Collabaration testing reviewed>>
 Multiple commits testing 2
+<<<<<<HEAD
 Merging demo user 2
+=======
+>>>>>>> 750a6aa7a02389a8fb096f2611d12d014680a92d
