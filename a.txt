@@ -1,4 +1,5 @@
 Line 1
 This is a edit perform for GIT PULL demo
 <Fixed>
+Multiple commit testing
 <<Collabaration testing reviewed>>
